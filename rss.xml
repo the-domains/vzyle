@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vzyle]]></title>
+        <description><![CDATA[vzyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 22:45:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bricklane Food Market]]></title>
+            <description><![CDATA[<article><h1>Bricklane Food Market</h1><p>I had a chance to do some photo shooting here. Bla Bla.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d65f22d4-9ec1-4640-8178-20fed33f9b28.jpg"></article>]]></description>
+            <link>undefinedbricklane-food-market/index.html</link>
+            <guid isPermaLink="false">e80af491-79c4-4243-8e69-39734fc6cdec</guid>
+            <pubDate>Wed, 18 Nov 2015 22:45:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
